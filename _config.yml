@@ -1,0 +1,28 @@
+name: WeAreNotGod
+favicon: null
+layout_spectrum: 0.8240301145706326
+typography_spectrum: 0.5790604008361697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3161447865422815
+  lightness: 0.8340363285969943
+  saturation: 0.3211011129897088
+  rhythmicContrast: 0.5228741860482842
+purpose: []
