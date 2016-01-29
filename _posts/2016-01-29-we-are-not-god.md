@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T17:26:17.672Z'
-dateModified: '2016-01-29T17:25:50.927Z'
+datePublished: '2016-01-29T17:30:15.639Z'
+dateModified: '2016-01-29T17:28:57.621Z'
 author: []
 related: []
 app_links: []
@@ -33,3 +33,12 @@ yabba dabba doo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3dbde79-0d0e-466e-b6f5-70c5ce6d8ed1.jpg)
 
 Once upon a time
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1117ffb4-e6a8-4703-9c66-7ea9f0118911.jpg)
+
+Hi! I'm Kevin your
+author and sinner. 
+
+Let me first share
+that I am just an everyday person of average intelligence. I am no English
+major, I read slower than most, memory is one of my weakest gifts, and I'm
+humble as a result of being humbled a time or two; OK, three or more!
