@@ -16,7 +16,7 @@ keywords:
   - kings
   - lyrics
 description: ''
-datePublished: '2016-02-01T20:57:55.551Z'
+datePublished: '2016-02-01T20:57:55.610Z'
 dateModified: '2016-02-01T20:57:53.797Z'
 author:
   - name: WinstonFreedman
