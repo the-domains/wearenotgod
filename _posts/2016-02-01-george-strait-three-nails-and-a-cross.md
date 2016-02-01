@@ -1,7 +1,7 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - kings
   - lyrics
 description: ''
-datePublished: '2016-02-01T20:57:55.654Z'
-dateModified: '2016-02-01T20:57:53.797Z'
+datePublished: '2016-02-01T21:04:35.165Z'
+dateModified: '2016-02-01T21:04:31.883Z'
 author:
   - name: WinstonFreedman
     url: 'https://www.youtube.com/user/WinstonFreedman'
