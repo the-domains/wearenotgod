@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Let us love all and judge none
-datePublished: '2016-02-01T01:17:47.685Z'
-dateModified: '2016-02-01T01:17:38.461Z'
+datePublished: '2016-02-01T20:49:21.948Z'
+dateModified: '2016-02-01T20:49:18.462Z'
 title: WE ARE NOT GOD
 author: []
 sourcePath: _posts/2016-01-31-we-are-not-god.md
