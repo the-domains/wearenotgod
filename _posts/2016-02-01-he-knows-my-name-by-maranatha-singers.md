@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=hXsiWoyjw60'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - knows
   - holy
   - name
-description: 'Follow: http://twitter.com/julzares I have a Maker He formed my heart Before even time began My life was in his hands He knows my name He knows my every thought He sees each tear that falls and He hears me when I call I have a Father He calls me His own He?ll never leave me No matter where I go He knows my name He knows my every thought He sees each tear that falls and He hears me when I call'
-datePublished: '2016-02-01T20:47:44.397Z'
-dateModified: '2016-02-01T20:47:34.911Z'
+description: ''
+datePublished: '2016-02-01T20:53:57.795Z'
+dateModified: '2016-02-01T20:53:55.191Z'
 author:
   - name: Julz Ares
     url: 'https://www.youtube.com/user/mindslife'
@@ -35,7 +34,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=hXsiWoyjw60&feature=applinks'
     type: web
-title: He Knows My Name by Maranatha Singers
+title: Know God
 sourcePath: _posts/2016-02-01-he-knows-my-name-by-maranatha-singers.md
 published: true
 authors: []
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: know-god/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
