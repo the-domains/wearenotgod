@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[We Are Not God]]></title>
+        <description><![CDATA[We Are Not God]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 20:56:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ "I am the way and the truth and the life; no one comes to the Father but through me."Jn 14:6]]></title>
+            <description><![CDATA[<article><h1> "I am the way and the truth and the life; no one comes to the Father but through me."Jn 14:6</h1><p>Let us love all and judge none</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fc1074c601925f66c6bc406b013ae48165cc4bb.jpg"></article>]]></description>
+            <link>undefinedwe-are-not-god/index.html</link>
+            <guid isPermaLink="false">5376f6ba-9c32-448c-9983-a5524b85b0d8</guid>
+            <pubDate>Mon, 01 Feb 2016 20:56:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
