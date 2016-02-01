@@ -16,8 +16,8 @@ keywords:
   - holy
   - name
 description: ''
-datePublished: '2016-02-01T20:53:57.916Z'
-dateModified: '2016-02-01T20:53:55.191Z'
+datePublished: '2016-02-01T20:58:22.500Z'
+dateModified: '2016-02-01T20:58:20.044Z'
 author:
   - name: Julz Ares
     url: 'https://www.youtube.com/user/mindslife'
@@ -34,7 +34,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=hXsiWoyjw60&feature=applinks'
     type: web
-title: Know God
+title: ''
 sourcePath: _posts/2016-02-01-he-knows-my-name-by-maranatha-singers.md
 published: true
 authors: []
