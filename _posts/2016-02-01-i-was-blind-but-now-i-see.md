@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:45:41.768Z'
-dateModified: '2016-02-01T20:45:39.238Z'
+datePublished: '2016-02-01T20:46:51.908Z'
+dateModified: '2016-02-01T20:46:49.797Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-01-i-was-blind-but-now-i-see.md
@@ -18,7 +19,6 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: i-was-blind-but-now-i-see/index.html
 _type: Blurb
 
 ---
