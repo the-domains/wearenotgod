@@ -1,15 +1,14 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:46:51.971Z'
-dateModified: '2016-02-01T20:46:49.797Z'
-title: ''
+datePublished: '2016-02-01T20:50:19.599Z'
+dateModified: '2016-02-01T20:50:17.634Z'
+title: The Book
 author: []
 sourcePath: _posts/2016-02-01-i-was-blind-but-now-i-see.md
 published: true
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: the-book/index.html
 _type: Blurb
 
 ---
