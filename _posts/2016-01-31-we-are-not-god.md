@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Let us love all and judge none
-datePublished: '2016-02-01T20:49:22.011Z'
-dateModified: '2016-02-01T20:49:18.462Z'
+datePublished: '2016-02-01T20:56:42.985Z'
+dateModified: '2016-02-01T20:56:41.165Z'
 title: WE ARE NOT GOD
 author: []
 sourcePath: _posts/2016-01-31-we-are-not-god.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: we-are-not-god/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43f38942-99c6-4b9a-8c13-6897cef56c7a.jpg)
