@@ -1,7 +1,7 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - holy
   - name
 description: ''
-datePublished: '2016-02-01T20:58:22.562Z'
-dateModified: '2016-02-01T20:58:20.044Z'
+datePublished: '2016-02-01T21:04:58.449Z'
+dateModified: '2016-02-01T21:04:56.688Z'
 author:
   - name: Julz Ares
     url: 'https://www.youtube.com/user/mindslife'
