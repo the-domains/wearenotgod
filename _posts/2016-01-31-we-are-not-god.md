@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Let us love all and judge none
-datePublished: '2016-02-01T00:22:52.424Z'
-dateModified: '2016-02-01T00:22:48.255Z'
+datePublished: '2016-02-01T00:27:12.594Z'
+dateModified: '2016-02-01T00:27:08.260Z'
 title: WE ARE NOT GOD
 author: []
 sourcePath: _posts/2016-01-31-we-are-not-god.md
@@ -22,4 +21,6 @@ publisher:
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43f38942-99c6-4b9a-8c13-6897cef56c7a.jpg)
+
 ### "I am the way and the truth and the life; no one comes to the Father but through me."Jn 14:6
