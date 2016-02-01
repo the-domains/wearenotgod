@@ -17,8 +17,8 @@ keywords:
   - kings
   - lyrics
 description: "\"Three Nails And A Cross\" is the ninth track from George Strait's new album \"Here For A Good Time\". A song dedicated from \"king of country music\" to The King of Kings. \"You've got questions, you need direction, arms to hold you for all eternity - look no further."
-datePublished: '2016-02-01T20:30:45.403Z'
-dateModified: '2016-02-01T20:30:29.491Z'
+datePublished: '2016-02-01T20:46:32.032Z'
+dateModified: '2016-02-01T20:46:29.609Z'
 author:
   - name: WinstonFreedman
     url: 'https://www.youtube.com/user/WinstonFreedman'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=VLxbXi2o_ZM&feature=applinks'
     type: web
 title: George Strait - Three Nails And A Cross
+sourcePath: _posts/2016-02-01-george-strait-three-nails-and-a-cross.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-02-01-george-strait-three-nails-and-a-cross.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
