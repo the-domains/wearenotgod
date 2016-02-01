@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: The possibilities are endless when true loving unbiased non-judgemental truth is on our side
-datePublished: '2016-02-01T01:21:05.032Z'
-dateModified: '2016-02-01T01:21:02.060Z'
+description: ''
+datePublished: '2016-02-01T01:25:54.512Z'
+dateModified: '2016-02-01T01:25:50.157Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-01-i-was-blind-but-now-i-see.md
