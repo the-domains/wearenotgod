@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:57:21.696Z'
-dateModified: '2016-02-01T20:57:19.483Z'
+datePublished: '2016-02-01T21:03:58.878Z'
+dateModified: '2016-02-01T21:03:56.137Z'
 title: The Book
 author: []
 sourcePath: _posts/2016-02-01-i-was-blind-but-now-i-see.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-book/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 Is it possible for a person to suddenly go from being blind to seeing in today's day and age; metaphorically speaking, yes, and this book takes us there! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd867089-c9cb-43a0-8158-26dacfe8b2c0.jpg)
