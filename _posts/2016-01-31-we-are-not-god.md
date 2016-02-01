@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Let us love all and judge none
-datePublished: '2016-02-01T00:55:15.620Z'
+datePublished: '2016-02-01T00:55:15.637Z'
 dateModified: '2016-02-01T00:54:38.661Z'
 title: WE ARE NOT GOD
 author: []
