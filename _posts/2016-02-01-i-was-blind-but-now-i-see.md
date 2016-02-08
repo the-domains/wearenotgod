@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T22:43:32.085Z'
-dateModified: '2016-02-08T22:43:26.758Z'
+datePublished: '2016-02-08T22:45:07.024Z'
+dateModified: '2016-02-08T22:45:05.168Z'
 title: The Book
 author: []
 sourcePath: _posts/2016-02-01-i-was-blind-but-now-i-see.md
